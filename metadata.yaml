@@ -1,0 +1,25 @@
+_repo: The-Art-of-Lawn-Tennis_1451
+creator:
+  author:
+    agent_name: Tilden, William T. (William Tatem)
+    aliases:
+    - Tilden, William Tatem
+    - Tilden, Bill
+    birthdate: 1893
+    deathdate: 1953
+    gutenberg_agent_id: '638'
+    url: http://www.gutenberg.org/2009/agents/638
+description: ''
+gutenberg_issued: '1998-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1451'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Tennis'
+title: The Art of Lawn Tennis
+url: http://www.gutenberg.org/ebooks/1451
