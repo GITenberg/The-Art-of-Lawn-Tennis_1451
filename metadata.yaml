@@ -1,5 +1,5 @@
 _repo: The-Art-of-Lawn-Tennis_1451
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'GV'
 - !lcsh 'Tennis'
+- GITenberg
 title: The Art of Lawn Tennis
 url: http://www.gutenberg.org/ebooks/1451
